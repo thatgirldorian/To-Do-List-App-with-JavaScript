@@ -1,7 +1,7 @@
 # To-Do-List-App-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is a to-do app I built in JavaScript to keep track of all the things I need to get to.
+This is a to-do app I built for my friend to keep track of the things she needs to do. It's written in JavaScript and HTML code.
 
 
 <h3>Technology Used:</h3>
