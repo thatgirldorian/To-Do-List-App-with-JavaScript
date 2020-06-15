@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Style and Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+
+    <title>Sam's To-do List</title>
+</head>
+<body>
+
+
+    
+    <header>
+    	<h3>Sam's To-do List</h3>
+    </header>
+    <form>
+    	<input type="text" class="todo-task">
+    	<button class="todo-button">
+    		<i class="fas fa-plus"></i>
+    	</button>
+    	
+    	<!-- This div will help us filter tasks -->
+    	<div class="select">
+    		<select name="todos" class="filter-todo">
+    			<option value="all">All tasks</option>
+    			<option value="completed">Completed</option>
+    			<option value="unfinished">Unfinished</option>
+    		</select>
+    	</div>
+    </form>
+
+    <div class="todo-container">
+    	<ul class="todo-list">	
+    	</ul>
+    </div>
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
