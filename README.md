@@ -1,7 +1,7 @@
 # To-Do-List-App-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is a to-do app I built for my friend to keep track of the things she needs to do. It's written in JavaScript, CSS and HTML code. I also added some animation for when she deletes or crosses out finished tasks.
+This is a to-do app I built for my friend to keep track of the things she needs to do. It's written in JavaScript, CSS and HTML code and allows her filter tasks by categories (all tasks, completed, unfinished). I also added some animation for when she deletes or crosses out finished tasks.
 
 
 <h3>Technology Used:</h3>
