@@ -18,5 +18,4 @@ https://heuristic-bohr-f94b50.netlify.app/
 <h3>Screenshot:</h3>
 
 ![Capture](https://user-images.githubusercontent.com/40691059/84771562-93262e00-afd1-11ea-9bf3-626ee778df8a.PNG)
-![Capture](https://user-images.githubusercontent.com/40691059/84771241-f6fc2700-afd0-11ea-8e89-d68e4a4696d2.PNG)
 
